@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&width=435&lines=Full+Stack+Developer;Director+%40+CenoDigital;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&width=600&lines=Full+Stack+Developer;Director+%40+CenoDigital;Building+cool+things+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" />
 </p>
 
 <p align="center">
