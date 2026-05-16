@@ -3,7 +3,7 @@
 <p align="center">Full Stack Developer · Director @ CenoDigital</p>
 
 <p align="center">
-  <a href="https://aashifahd.com">Portfolio</a> ·
+  <a href="https://aathifdev.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/aathifdev">LinkedIn</a> ·
   <a href="https://instagram.com/info.electonyx">Instagram</a>
 </p>
